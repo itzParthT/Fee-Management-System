@@ -20,9 +20,9 @@ Project Was  Made Using HTML, CSS, BOOTSTRAP, PHP.
 
 3.Type the url localhost/phpmyadmin
 
-4.Create DB with the name suthar
+4.Create DB with the name databas
 
-5.Click the created DB and import the sql (suthar.sql){CS 223/database}
+5.Click the created DB and import the sql (databas.sql){PT/database}
 
 
 
